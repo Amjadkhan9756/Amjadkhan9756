@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-javascript
+```javascript
 const developer = {
   name        : "Your Name",
   role        : "Full Stack Developer",
