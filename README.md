@@ -1,4 +1,4 @@
-Hi, I'm Amjad 👋
+                     Hi, I'm Amjad 👋
 Software Engineer · MERN Stack Developer · 
 B.Tech (CSE) · Shri Ram Murti Smarak College of Engineering & Technology, Bareilly
 
