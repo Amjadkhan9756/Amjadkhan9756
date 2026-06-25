@@ -1,6 +1,6 @@
 
 
-<!-- TYPING ANIMATION -->
+<!-- ANIMATED PHOTO -->
 <img src="https://github.com/Amjadkhan9756/Amjadkhan9756/blob/main/Skills.png"/>
 
 
@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
+javascript
 const developer = {
   name        : "Your Name",
   role        : "Full Stack Developer",
