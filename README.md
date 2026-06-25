@@ -1,10 +1,13 @@
+
+
+<!-- TYPING ANIMATION -->
+<img src="https://github.com/Amjadkhan9756/Amjadkhan9756/blob/main/Skills.png"/>
+
+
 <div align="center">
 
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Full%20Stack%20Developer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=JavaScript%20%7C%20TypeScript%20%7C%20Java%20%7C%20MERN%20Stack&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=680&height=68&lines=⚡+React+%7C+Node+%7C+Express+%7C+MongoDB;🎨+Tailwind+%7C+Bootstrap+%7C+Material+UI;☁️+Docker+%7C+AWS+%7C+CI%2FCD+%7C+Next.js" alt="Typing SVG"/>
 
 <br/>
 
