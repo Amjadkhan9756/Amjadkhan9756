@@ -169,7 +169,6 @@ AWS             ███████████░░░░░░░░░  55
 | 🌐 Platform   | 🔗 Link                                          |
 |:-------------|:------------------------------------------------|
 | 💼 LinkedIn   | [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/amjad-khan-209363320/)](https://linkedin.com) |
-| 🐙 GitHub     | [github.com/yourusername](https://github.com)   |
 | 🌍 Portfolio  | [yourportfolio.dev](https://yourportfolio.dev)  |
 | 📧 Email      | [amjadkhann.tech@gmail.com](mailto:your@email.com)         |
 
